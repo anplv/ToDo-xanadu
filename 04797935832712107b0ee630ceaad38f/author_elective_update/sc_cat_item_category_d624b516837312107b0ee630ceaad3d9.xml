@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a new To Do Project">001de9da833312107b0ee630ceaad31d</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 18:48:08</sys_created_on>
+        <sys_id>d624b516837312107b0ee630ceaad3d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="To Do (Viacheslav Anpilov)" source="x_1593629_to_do_0">04797935832712107b0ee630ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do (Viacheslav Anpilov)">04797935832712107b0ee630ceaad38f</sys_scope>
+        <sys_update_name>sc_cat_item_category_d624b516837312107b0ee630ceaad3d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 18:48:08</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do (Viacheslav Anpilov)">04797935832712107b0ee630ceaad38f</application>
+        <file_path/>
+        <instance_id>d59c27891b4e821077c7cb7b234bcb86</instance_id>
+        <instance_name>dev264521</instance_name>
+        <name>sc_cat_item_category_d624b516837312107b0ee630ceaad3d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new To Do Project">001de9da833312107b0ee630ceaad31d</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-20 18:48:08</sys_created_on><sys_id>d624b516837312107b0ee630ceaad3d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Request a new To Do Project</sys_name><sys_package display_value="To Do (Viacheslav Anpilov)" source="x_1593629_to_do_0">04797935832712107b0ee630ceaad38f</sys_package><sys_policy/><sys_scope display_value="To Do (Viacheslav Anpilov)">04797935832712107b0ee630ceaad38f</sys_scope><sys_update_name>sc_cat_item_category_d624b516837312107b0ee630ceaad3d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-20 18:48:08</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>128025025</payload_hash>
+        <record_name>Can We Help You?.Request a new To Do Project</record_name>
+        <reverted_from/>
+        <source>b627ce75836712107b0ee630ceaad3bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 18:48:08</sys_created_on>
+        <sys_id>9e24b516837312107b0ee630ceaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19524b04b600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 18:48:08</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>de24b516a573121076b12f5982fd9ddc</update_guid>
+        <update_guid_history>de24b516a573121076b12f5982fd9ddc:128025025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Request a new To Do Project">e544b916837312107b0ee630ceaad326</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-20 18:48:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>613fc4eb249d49a1aec2cc4bc318e049</sys_id>
+        <sys_metadata>d624b516837312107b0ee630ceaad3d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="To Do (Viacheslav Anpilov)" source="x_1593629_to_do_0">04797935832712107b0ee630ceaad38f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do (Viacheslav Anpilov)">04797935832712107b0ee630ceaad38f</sys_scope>
+        <sys_scope_delete display_value="">1d680da299294d8f83a745813a999859</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d624b516837312107b0ee630ceaad3d9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d624b516837312107b0ee630ceaad3d9">9e24b516837312107b0ee630ceaad3dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-20 18:48:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
